@@ -12,10 +12,10 @@ The code is organized as follows:
 
 ## Citation
 ```
-**@inproceedings{goodge2022lunar,
-  title={LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks},
-  author={Goodge, Adam and Hooi, Bryan and Ng, See Kiong and Ng, Wee Siong},
-  journal={AAAI Conference on Artificial Intelligence (AAAI)},
-  year={2022}
+**@article{goodge2024text,
+  title={When Text and Images Don't Mix: Bias-Correcting Language-Image Similarity Scores for Anomaly Detection},
+  author={Goodge, Adam and Hooi, Bryan and Ng, Wee Siong},
+  journal={arXiv preprint arXiv:2407.17083},
+  year={2024}
 }**
 ```
