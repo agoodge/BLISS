@@ -8,7 +8,7 @@ The code is organized as follows:
 - ```imagenet_utils``` : contains files and utility functions for ImageNet data.
 - ```data_utils.py``` : contains functions for downloading and instantiating data.
 - ```cifar_eval.py``` : the main file for cifar10 and cifar100 experiments.
-- ```imagenet_eval.py``` :  the main file for tinyimagnet experiments.
+- ```imagenet_eval.py``` :  the main file for tinyimagenet experiments.
 
 ## Citation
 ```
