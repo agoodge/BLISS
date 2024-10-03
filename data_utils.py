@@ -1,12 +1,3 @@
-"""
-Code submission for CAD-CLIP: Calibrated Anomaly Detection with Contrastive Language-Image Pre-training.
-
-Some of the code has been adapted from https://github.com/sesmae/ZOC
-
-"""
-
-
-
 from torch.utils.data import DataLoader, Dataset
 import numpy as np
 import os
